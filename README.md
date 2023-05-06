@@ -1,4 +1,6 @@
-# This study is to leverage on CNN to build a Deep Learning model to identify fashion items based on images
+# Deep Learning with CNN
+
+This study is to leverage on CNN to build a Deep Learning model to identify fashion items based on images
 
 Detailed code and analysis is in the .ipynb file attached.
 
